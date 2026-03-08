@@ -167,6 +167,3 @@ After completing this project, you will understand:
 
 ---
 
-# 👨‍💻 Author
-
-SQL Practice Project for learning **PostgreSQL Date & Time Functions**.
