@@ -1,1 +1,1 @@
-# PostgreSQL-Date-and-Time
+# PostgreSQL-Date-Time
