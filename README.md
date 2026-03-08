@@ -1,4 +1,3 @@
-# PostgreSQL-Date-Time
 # PostgreSQL Date & Time Functions with Product Table
 
 ## 📌 Project Overview
