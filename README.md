@@ -5,8 +5,6 @@
 This project demonstrates how to use **PostgreSQL Date and Time functions** using a sample `products` table.
 It includes examples of extracting date parts, formatting dates, calculating date differences, and working with intervals.
 
-The goal of this project is to help beginners understand how to work with **date and time operations in PostgreSQL**.
-
 ---
 
 ## 🗂 Database Structure
